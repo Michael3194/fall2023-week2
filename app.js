@@ -1,1 +1,1 @@
-console.log("first commits")
+console.log("first comits")
